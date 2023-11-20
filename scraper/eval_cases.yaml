@@ -1,0 +1,37 @@
+'01':
+  disease_name: Insomnia
+  disease_description: "\nInsomnia, also known as sleeplessness, is a sleep disorder\
+    \ in which people have trouble sleeping. We want to target the positive modulator\
+    \ sites of gamma-Aminobutyric acid type A (GABA_A) receptors to treat insomnia,\
+    \ which enhances GABAergic inhibition of neurotransmission in the central nervous\
+    \ system. GABA_A belongs to the superfamily of \u201Ccys-cys loop\u201D ligand-gated\
+    \ ion channels that in vertebrates include the nicotinic acetylcholine receptors\
+    \ (nAChR), the 5-hydroxytryptamine type 3 (5-HT3) receptors, the zinc-activated\
+    \ ion channel (ZAC) and the glycine receptors.\n"
+  drug_list:
+  - O=C(O[C@H]3c1nccnc1C(=O)N3c2ncc(Cl)cc2)N4CCN(C)CC4
+  - CN(C)C(=O)Cc1c(nc2ccc(C)cn12)c3ccc(C)cc3
+  - O=C(OC3c1nccnc1C(=O)N3c2ncc(Cl)cc2)N4CCN(C)CC4
+  - CCN(C(C)=O)c1cccc(-c2ccnc3c(C#N)cnn23)c1
+  - ClC1=CC=CC=C1C2=NCC3=NN=C(C)N3C4=C2C=C(Br)S4
+  - FC1=CC=CC=C1C2=NC(C(N(CCC#N)C3=C2C=C(C=C3)Cl)=O)O
+  - ClC1=CC=CC=C1C2=NCC3=CN=C(C)N3C4=C2C=C(C=C4)Cl
+  - O=C(O)C1N=C(c2ccccc2)c2cc(Cl)ccc2NC1=O
+  - FC1=CC=CC=C1C2=NC(C(N(CCO)C3=C2C=C(C=C3)Cl)=O)O
+  - ClC1=CC2=C(C=C1)N3C=NN=C3CN=C2C4=CC=CC=C4
+  - ClC1=CC=CC=C1C2=NCC3=NN=C(C)N3C4=C2C=C(CC)S4
+  - CN1C(=O)CN=C(c2ccccc2F)c2cc([N+](=O)[O-])ccc21
+  - FC1=CC=CC=C1C2=NCC(N(CCN(CC)CC)C3=C2C=C(C=C3)Cl)=O
+  - FC1=CC=CC=C1C2=NCC(N(CC3CC3)C4=C2C=C(C=C4)Cl)=O
+  - Fc1ccccc1C42OCCN2CC(=O)Nc3c4cc(Br)cc3
+  - '[O-][N+](=O)c1cc4c(cc1)N/2C(=O)C(\N=C\2C/N=C4/c3ccccc3Cl)=C\N5CCN(C)CC5'
+  - ClC1=CC=CC=C1C2=NC(C(N(C)C3=C2C=C(C=C3)Cl)=O)O
+  - ClC1=CC=C2C(C(C3=CC=CC=C3F)=NCC4=CN=C(C)N42)=C1
+  - '[O-][N+](C1=CC2=C(C=C1)N(C)C(CN=C2C3=CC=CC=C3)=O)=O'
+  - '[O-][N+](C1=CC2=C(C=C1)NC(CN=C2C3=CC=CC=C3)=O)=O'
+  - FC(F)(F)CN1C(=S)C/N=C(\c2cc(Cl)ccc12)c3ccccc3F
+  - Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2
+  - CN1C2=C(C(C3=CC=CC=C3)=NC(O)C1=O)C=C(Cl)C=C2
+  information_source:
+  - https://en.wikipedia.org/wiki/Zaleplon
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2648504/
