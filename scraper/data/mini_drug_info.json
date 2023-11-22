@@ -1,6 +1,8 @@
 {
     "A-HYDROCORT": {
-        "HYDROCORTISONE SODIUM SUCCINATE": "CC12CCC(=O)C=C1CCC3C2C(CC4(C3CCC4(C(=O)COC(=O)CCC(=O)[O-])O)C)O.[Na+]",
+        "Active Ingredients": {
+            "HYDROCORTISONE SODIUM SUCCINATE": "CC12CCC(=O)C=C1CCC3C2C(CC4(C3CCC4(C(=O)COC(=O)CCC(=O)[O-])O)C)O.[Na+]"
+        },
         "Drug Information": {
             "Identification": {
                 "Summary": "Hydrocortisone succinate is a corticosteroid used to treat severe allergic reactions, dermatologic diseases, endocrine disorders, gastrointestinal diseases, hematological disorders, neoplastic diseases, nervous system conditions, ophthalmic diseases, renal diseases, respiratory diseases, and rheumatic disorders.",
@@ -245,7 +247,9 @@
         }
     },
     "A-METHAPRED": {
-        "METHYLPREDNISOLONE SODIUM SUCCINATE": "CC1CC2C3CCC(C3(CC(C2C4(C1=CC(=O)C=C4)C)O)C)(C(=O)COC(=O)CCC(=O)[O-])O.[Na+]",
+        "Active Ingredients": {
+            "METHYLPREDNISOLONE SODIUM SUCCINATE": "CC1CC2C3CCC(C3(CC(C2C4(C1=CC(=O)C=C4)C)O)C)(C(=O)COC(=O)CCC(=O)[O-])O.[Na+]"
+        },
         "Drug Information": {
             "Identification": {
                 "Summary": "Methylprednisolone hemisuccinate is a water soluble corticosteroid used to treat severe allergic reactions, dermatologic diseases, endocrine disorders, gastrointestinal diseases, hematological disorders, neoplastic diseases, nervous system conditions, ophthalmic diseases, renal diseases, respiratory diseases, and rheumatic disorders.",
@@ -433,7 +437,9 @@
         }
     },
     "A-POXIDE": {
-        "CHLORDIAZEPOXIDE HYDROCHLORIDE": "CN=C1CN(C(=C2C=C(C=CC2=N1)Cl)C3=CC=CC=C3)O.Cl",
+        "Active Ingredients": {
+            "CHLORDIAZEPOXIDE HYDROCHLORIDE": "CN=C1CN(C(=C2C=C(C=CC2=N1)Cl)C3=CC=CC=C3)O.Cl"
+        },
         "Drug Information": {
             "Vitamin A": {},
             "Haemagglutinin-strain A(H3N2)": {},
@@ -468,7 +474,9 @@
         "Disease Information": null
     },
     "A.P.L.": {
-        "GONADOTROPIN, CHORIONIC": NaN,
+        "Active Ingredients": {
+            "GONADOTROPIN, CHORIONIC": NaN
+        },
         "Drug Information": {
             "Chorionic Gonadotropin (Human)": {},
             "Rotavirus vaccine": {},

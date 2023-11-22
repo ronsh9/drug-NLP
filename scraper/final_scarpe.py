@@ -225,7 +225,7 @@ def create_json_dataset(csv_path, json_dir):
             row[f'Active Ingredient {i}']: row[f'SMILES {i}']
             for i in range(13) if pd.notna(row[f'Active Ingredient {i}'])
         }
-        drug_dict.update(active_ingredients)
+        drug_dict["Active Ingredients"] = active_ingredients
 
         # Get detailed drug information using the scrape_drug_info function
         drug_info, additional_info, disease_info = scrape_drug_info(drug_name)
