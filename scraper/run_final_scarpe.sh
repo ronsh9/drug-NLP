@@ -1,13 +1,10 @@
-export OPENAI_API_KEY="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"
-prompt_template="baseline1"
+#!/bin/bash
+#SBATCH -N 1
+#SBATCH -n 40
+#SBATCH --nodelist=node1238
+#SBATCH --mem=200G
+#SBATCH --time=200:00:00
+#SBATCH --constraint=centos7
+#SBATCH --partition=sched_mit_ccoley
 
-python drug_nlp/main.py \
-    --seed 1 \
-    --dataset_path scraper/eval_cases.yaml \
-    --num_shots 10 \
-    --llm_engine openai/gpt-3.5-turbo-0301	 \
-    --llm_prompt_template ${prompt_template} \
-    --llm_temperature 0.1 \
-    --llm_num_completions 10 \
-    --debug \
-    --output_path results/${prompt_template}_16shot.csv 
+python -u final_scarpe.py > dataset_generation.txt
