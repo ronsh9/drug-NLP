@@ -1,0 +1,362 @@
+user
+You are an expert in drug discovery, please generate a novel binder molecule for the following disease. Respond with a SMILES string of a hypothetical possible binder molecule. The disease is Anginal Pain. Some associated conditions are Cardiovascular Complications, Cardiovascular Disease, Coronary Artery Disease, Coronary artery thrombosis, Dysbetalipoproteinemia. It has the following receptors:
+Receptor 3-hydroxy-3-methylglutaryl-coenzyme A reductase: It has general function: Nadph binding. It has specific function: Transmembrane glycoprotein that is the rate-limiting enzyme in cholesterol biosynthesis as well as in the biosynthesis of nonsterol isoprenoids that are essential for normal cell function including ubiquinone and geranylgeranyl proteins. Its amino acid sequence is: MLSRLFRMHGLFVASHPWEVIVGTVTLTICMMSMNMFTGNNKICGWNYECPKFEEDVLSS
+DIIILTITRCIAILYIYFQFQNLRQLGSKYILGIAGLFTIFSSFVFSTVVIHFLDKELTG
+LNEALPFFLLLIDLSRASTLAKFALSSNSQDEVRENIARGMAILGPTFTLDALVECLVIG
+VGTMSGVRQLEIMCCFGCMSVLANYFVFMTFFPACVSLVLELSRESREGRPIWQLSHFAR
+VLEEEENKPNPVTQRVKMIMSLGLVLVHAHSRWIADPSPQNSTADTSKVSLGLDENVSKR
+IEPSVSLWQFYLSKMISMDIEQVITLSLALLLAVKYIFFEQTETESTLSLKNPITSPVVT
+QKKVPDNCCRREPMLVRNNQKCDSVEEETGINRERKVEVIKPLVAETDTPNRATFVVGNS
+SLLDTSSVLVTQEPEIELPREPRPNEECLQILGNAEKGAKFLSDAEIIQLVNAKHIPAYK
+LETLMETHERGVSIRRQLLSKKLSEPSSLQYLPYRDYNYSLVMGACCENVIGYMPIPVGV
+AGPLCLDEKEFQVPMATTEGCLVASTNRGCRAIGLGGGASSRVLADGMTRGPVVRLPRAC
+DSAEVKAWLETSEGFAVIKEAFDSTSRFARLQKLHTSIAGRNLYIRFQSRSGDAMGMNMI
+SKGTEKALSKLHEYFPEMQILAVSGNYCTDKKPAAINWIEGRGKSVVCEAVIPAKVVREV
+LKTTTEAMIEVNINKNLVGSAMAGSIGGYNAHAANIVTAIYIACGQDAAQNVGSSNCITL
+MEASGPTNEDLYISCTMPSIEIGTVGGGTNLLPQQACLQMLGVQGACKDNPGENARQLAR
+IVCGTVMAGELSLMAALAAGHLVKSHMIHNRSKINLQDLQGACTKKTA. 
+Receptor Dipeptidyl peptidase 4: It has general function: Virus receptor activity. It has specific function: Cell surface glycoprotein receptor involved in the costimulatory signal essential for T-cell receptor (TCR)-mediated T-cell activation. Acts as a positive regulator of T-cell coactivation, by binding at least ADA, CAV1, IGF2R, and PTPRC. Its binding to CAV1 and CARD11 induces T-cell proliferation and NF-kappa-B activation in a T-cell receptor/CD3-dependent manner. Its interaction with ADA also regulates lymphocyte-epithelial cell adhesion. In association with FAP is involved in the pericellular proteolysis of the extracellular matrix (ECM), the migration and invasion of endothelial cells into the ECM. May be involved in the promotion of lymphatic endothelial cells adhesion, migration and tube formation. When overexpressed, enhanced cell proliferation, a process inhibited by GPC3. Acts also as a serine exopeptidase with a dipeptidyl peptidase activity that regulates various physiological processes by cleaving peptides in the circulation, including many chemokines, mitogenic growth factors, neuropeptides and peptide hormones. Removes N-terminal dipeptides sequentially from polypeptides having unsubstituted N-termini provided that the penultimate residue is proline. Its amino acid sequence is: MKTPWKVLLGLLGAAALVTIITVPVVLLNKGTDDATADSRKTYTLTDYLKNTYRLKLYSL
+RWISDHEYLYKQENNILVFNAEYGNSSVFLENSTFDEFGHSINDYSISPDGQFILLEYNY
+VKQWRHSYTASYDIYDLNKRQLITEERIPNNTQWVTWSPVGHKLAYVWNNDIYVKIEPNL
+PSYRITWTGKEDIIYNGITDWVYEEEVFSAYSALWWSPNGTFLAYAQFNDTEVPLIEYSF
+YSDESLQYPKTVRVPYPKAGAVNPTVKFFVVNTDSLSSVTNATSIQITAPASMLIGDHYL
+CDVTWATQERISLQWLRRIQNYSVMDICDYDESSGRWNCLVARQHIEMSTTGWVGRFRPS
+EPHFTLDGNSFYKIISNEEGYRHICYFQIDKKDCTFITKGTWEVIGIEALTSDYLYYISN
+EYKGMPGGRNLYKIQLSDYTKVTCLSCELNPERCQYYSVSFSKEAKYYQLRCSGPGLPLY
+TLHSSVNDKGLRVLEDNSALDKMLQNVQMPSKKLDFIILNETKFWYQMILPPHFDKSKKY
+PLLLDVYAGPCSQKADTVFRLNWATYLASTENIIVASFDGRGSGYQGDKIMHAINRRLGT
+FEVEDQIEAARQFSKMGFVDNKRIAIWGWSYGGYVTSMVLGSGSGVFKCGIAVAPVSRWE
+YYDSVYTERYMGLPTPEDNLDHYRNSTVMSRAENFKQVEYLLIHGTADDNVHFQQSAQIS
+KALVDVGVDFQAMWYTDEDHGIASSTAHQHIYTHMSHFIKQCFSLP. 
+Receptor Aryl hydrocarbon receptor: It has general function: Transcription regulatory region dna binding. It has specific function: Ligand-activated transcriptional activator. Binds to the XRE promoter region of genes it activates. Activates the expression of multiple phase I and II xenobiotic chemical metabolizing enzyme genes (such as the CYP1A1 gene). Mediates biochemical and toxic effects of halogenated aromatic hydrocarbons. Involved in cell-cycle regulation. Likely to play an important role in the development and maturation of many tissues. Regulates the circadian clock by inhibiting the basal and circadian expression of the core circadian component PER1. Inhibits PER1 by repressing the CLOCK-ARNTL/BMAL1 heterodimer mediated transcriptional activation of PER1. Its amino acid sequence is: MNSSSANITYASRKRRKPVQKTVKPIPAEGIKSNPSKRHRDRLNTELDRLASLLPFPQDV
+INKLDKLSVLRLSVSYLRAKSFFDVALKSSPTERNGGQDNCRAANFREGLNLQEGEFLLQ
+ALNGFVLVVTTDALVFYASSTIQDYLGFQQSDVIHQSVYELIHTEDRAEFQRQLHWALNP
+SQCTESGQGIEEATGLPQTVVCYNPDQIPPENSPLMERCFICRLRCLLDNSSGFLAMNFQ
+GKLKYLHGQKKKGKDGSILPPQLALFAIATPLQPPSILEIRTKNFIFRTKHKLDFTPIGC
+DAKGRIVLGYTEAELCTRGSGYQFIHAADMLYCAESHIRMIKTGESGMIVFRLLTKNNRW
+TWVQSNARLLYKNGRPDYIIVTQRPLTDEEGTEHLRKRNTKLPFMFTTGEAVLYEATNPF
+PAIMDPLPLRTKNGTSGKDSATTSTLSKDSLNPSSLLAAMMQQDESIYLYPASSTSSTAP
+FENNFFNESMNECRNWQDNTAPMGNDTILKHEQIDQPQDVNSFAGGHPGLFQDSKNSDLY
+SIMKNLGIDFEDIRHMQNEKFFRNDFSGEVDFRDIDLTDEILTYVQDSLSKSPFIPSDYQ
+QQQSLALNSSCMVQEHLHLEQQQQHHQKQVVVEPQQQLCQKMKHMQVNGMFENWNSNQFV
+PFNCPQQDPQQYNVFTDLHGISQEFPYKSEMDSMPYTQNFISCNQPVLPQHSKCTELDYP
+MGSFEPSPYPTTSSLEDFVTCLQLPENQKHGLNPQSAIITPQTCYAGAVSMYQCQPEPQH
+THVGQMQYNPVLPGQQAFLNKFQNGVLNETYPAELNNINNTQTTTHLQPLHHPSEARPFP
+DLTSSGFL. 
+Receptor Histone deacetylase 2: It has general function: Transcription factor binding. It has specific function: Responsible for the deacetylation of lysine residues on the N-terminal part of the core histones (H2A, H2B, H3 and H4). Histone deacetylation gives a tag for epigenetic repression and plays an important role in transcriptional regulation, cell cycle progression and developmental events. Histone deacetylases act via the formation of large multiprotein complexes. Forms transcriptional repressor complexes by associating with MAD, SIN3, YY1 and N-COR. Interacts in the late S-phase of DNA-replication with DNMT1 in the other transcriptional repressor complex composed of DNMT1, DMAP1, PCNA, CAF1. Deacetylates TSHZ3 and regulates its transcriptional repressor activity. Component of a RCOR/GFI/KDM1A/HDAC complex that suppresses, via histone deacetylase (HDAC) recruitment, a number of genes implicated in multilineage blood cell development. May be involved in the transcriptional repression of circadian target genes, such as PER1, mediated by CRY1 through histone deacetylation. Involved in MTA1-mediated transcriptional corepression of TFF1 and CDKN1A. Its amino acid sequence is: MAYSQGGGKKKVCYYYDGDIGNYYYGQGHPMKPHRIRMTHNLLLNYGLYRKMEIYRPHKA
+TAEEMTKYHSDEYIKFLRSIRPDNMSEYSKQMQRFNVGEDCPVFDGLFEFCQLSTGGSVA
+GAVKLNRQQTDMAVNWAGGLHHAKKSEASGFCYVNDIVLAILELLKYHQRVLYIDIDIHH
+GDGVEEAFYTTDRVMTVSFHKYGEYFPGTGDLRDIGAGKGKYYAVNFPMRDGIDDESYGQ
+IFKPIISKVMEMYQPSAVVLQCGADSLSGDRLGCFNLTVKGHAKCVEVVKTFNLPLLMLG
+GGGYTIRNVARCWTYETAVALDCEIPNELPYNDYFEYFGPDFKLHISPSNMTNQNTPEYM
+EKIKQRLFENLRMLPHAPGVQMQAIPEDAVHEDSGDEDGEDPDKRISIRASDKRIACDEE
+FSDSEDEGEGGRRNVADHKKGAKKARIEEDKKETEDKKTDVKEEDKSKDNSGEKTDTKGT
+KSEQLSNP. 
+Receptor Nuclear receptor subfamily 1 group I member 3: It has general function: Zinc ion binding. It has specific function: Binds and transactivates the retinoic acid response elements that control expression of the retinoic acid receptor beta 2 and alcohol dehydrogenase 3 genes. Transactivates both the phenobarbital responsive element module of the human CYP2B6 gene and the CYP3A4 xenobiotic response element. Its amino acid sequence is: MASREDELRNCVVCGDQATGYHFNALTCEGCKGFFRRTVSKSIGPTCPFAGSCEVSKTQR
+RHCPACRLQKCLDAGMRKDMILSAEALALRRAKQAQRRAQQTPVQLSKEQEELIRTLLGA
+HTRHMGTMFEQFVQFRPPAHLFIHHQPLPTLAPVLPLVTHFADINTFMVLQVIKFTKDLP
+VFRSLPIEDQISLLKGAAVEICHIVLNTTFCLQTQNFLCGPLRYTIEDGARVSPTVGFQV
+EFLELLFHFHGTLRKLQLQEPEYVLLAAMALFSPDRPGVTQRDEIDQLQEEMALTLQSYI
+KGQQRRPRDRFLYAKLLGLLAELRSINEAYGYQIQHIQGLSAMMPLLQEICS. 
+assistant
+CC(C)C1=C(C(=C(N1CCC(CC(CC(=O)[O-])O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4.CC(C)C1=C(C(=C(N1CCC(CC(CC(=O)[O-])O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4.[Ca+2]
+
+GPT response 1:
+CCOc1cccc(C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](C)C
+
+GPT response 2:
+CC(=O)Nc1ccc(NC(=O)c2ccc(NC(=O)C(C)C)cc2)cc1
+=====================================
+user
+You are an expert in drug discovery, please generate a novel binder molecule for the following disease. Respond with a SMILES string of a hypothetical possible binder molecule. The disease is Chronic Pain. Some associated conditions are Severe Pain. It has the following receptors:
+Receptor Mu-type opioid receptor: It has general function: Voltage-gated calcium channel activity. It has specific function: Receptor for endogenous opioids such as beta-endorphin and endomorphin. Receptor for natural and synthetic opioids including morphine, heroin, DAMGO, fentanyl, etorphine, buprenorphin and methadone. Agonist binding to the receptor induces coupling to an inactive GDP-bound heterotrimeric G-protein complex and subsequent exchange of GDP for GTP in the G-protein alpha subunit leading to dissociation of the G-protein complex with the free GTP-bound G-protein alpha and the G-protein beta-gamma dimer activating downstream cellular effectors. The agonist- and cell type-specific activity is predominantly coupled to pertussis toxin-sensitive G(i) and G(o) G alpha proteins, GNAI1, GNAI2, GNAI3 and GNAO1 isoforms Alpha-1 and Alpha-2, and to a lesser extend to pertussis toxin-insensitive G alpha proteins GNAZ and GNA15. They mediate an array of downstream cellular responses, including inhibition of adenylate cyclase activity and both N-type and L-type calcium channels, activation of inward rectifying potassium channels, mitogen-activated protein kinase (MAPK), phospholipase C (PLC), phosphoinositide/protein kinase (PKC), phosphoinositide 3-kinase (PI3K) and regulation of NF-kappa-B. Also couples to adenylate cyclase stimulatory G alpha proteins. The selective temporal coupling to G-proteins and subsequent signaling can be regulated by RGSZ proteins, such as RGS9, RGS17 and RGS4. Phosphorylation by members of the GPRK subfamily of Ser/Thr protein kinases and association with beta-arrestins is involved in short-term receptor desensitization. Beta-arrestins associate with the GPRK-phosphorylated receptor and uncouple it from the G-protein thus terminating signal transduction. The phosphorylated receptor is internalized through endocytosis via clathrin-coated pits which involves beta-arrestins. The activation of the ERK pathway occurs either in a G-protein-dependent or a beta-arrestin-dependent manner and is regulated by agonist-specific receptor phosphorylation. Acts as a class A G-protein coupled receptor (GPCR) which dissociates from beta-arrestin at or near the plasma membrane and undergoes rapid recycling. Receptor down-regulation pathways are varying with the agonist and occur dependent or independent of G-protein coupling. Endogenous ligands induce rapid desensitization, endocytosis and recycling whereas morphine induces only low desensitization and endocytosis. Heterooligomerization with other GPCRs can modulate agonist binding, signaling and trafficking properties. Involved in neurogenesis. Isoform 12 couples to GNAS and is proposed to be involved in excitatory effects. Isoform 16 and isoform 17 do not bind agonists but may act through oligomerization with binding-competent OPRM1 isoforms and reduce their ligand binding activity. Its amino acid sequence is: MDSSAAPTNASNCTDALAYSSCSPAPSPGSWVNLSHLDGNLSDPCGPNRTDLGGRDSLCP
+PTGSPSMITAITIMALYSIVCVVGLFGNFLVMYVIVRYTKMKTATNIYIFNLALADALAT
+STLPFQSVNYLMGTWPFGTILCKIVISIDYYNMFTSIFTLCTMSVDRYIAVCHPVKALDF
+RTPRNAKIINVCNWILSSAIGLPVMFMATTKYRQGSIDCTLTFSHPTWYWENLLKICVFI
+FAFIMPVLIITVCYGLMILRLKSVRMLSGSKEKDRNLRRITRMVLVVVAVFIVCWTPIHI
+YVIIKALVTIPETTFQTVSWHFCIALGYTNSCLNPVLYAFLDENFKRCFREFCIPTSSNI
+EQQNSTRIRQNTRDHPSTANTVDRTNHQLENLEAETAPLP. 
+Receptor Kappa-type opioid receptor: It has general function: Opioid receptor activity. It has specific function: G-protein coupled opioid receptor that functions as receptor for endogenous alpha-neoendorphins and dynorphins, but has low affinity for beta-endorphins. Also functions as receptor for various synthetic opioids and for the psychoactive diterpene salvinorin A. Ligand binding causes a conformation change that triggers signaling via guanine nucleotide-binding proteins (G proteins) and modulates the activity of down-stream effectors, such as adenylate cyclase. Signaling leads to the inhibition of adenylate cyclase activity. Inhibits neurotransmitter release by reducing calcium ion currents and increasing potassium ion conductance. Plays a role in the perception of pain. Plays a role in mediating reduced physical activity upon treatment with synthetic opioids. Plays a role in the regulation of salivation in response to synthetic opioids. May play a role in arousal and regulation of autonomic and neuroendocrine functions. Its amino acid sequence is: MDSPIQIFRGEPGPTCAPSACLPPNSSAWFPGWAEPDSNGSAGSEDAQLEPAHISPAIPV
+IITAVYSVVFVVGLVGNSLVMFVIIRYTKMKTATNIYIFNLALADALVTTTMPFQSTVYL
+MNSWPFGDVLCKIVISIDYYNMFTSIFTLTMMSVDRYIAVCHPVKALDFRTPLKAKIINI
+CIWLLSSSVGISAIVLGGTKVREDVDVIECSLQFPDDDYSWWDLFMKICVFIFAFVIPVL
+IIIVCYTLMILRLKSVRLLSGSREKDRNLRRITRLVLVVVAVFVVCWTPIHIFILVEALG
+STSHSTAALSSYYFCIALGYTNSSLNPILYAFLDENFKRCFRDFCFPLKMRMERQSTSRV
+RNTVQDPAYLRDIDGMNKPV. 
+Receptor Delta-type opioid receptor: It has general function: Opioid receptor activity. It has specific function: G-protein coupled receptor that functions as receptor for endogenous enkephalins and for a subset of other opioids. Ligand binding causes a conformation change that triggers signaling via guanine nucleotide-binding proteins (G proteins) and modulates the activity of down-stream effectors, such as adenylate cyclase. Signaling leads to the inhibition of adenylate cyclase activity. Inhibits neurotransmitter release by reducing calcium ion currents and increasing potassium ion conductance. Plays a role in the perception of pain and in opiate-mediated analgesia. Plays a role in developing analgesic tolerance to morphine. Its amino acid sequence is: MEPAPSAGAELQPPLFANASDAYPSACPSAGANASGPPGARSASSLALAIAITALYSAVC
+AVGLLGNVLVMFGIVRYTKMKTATNIYIFNLALADALATSTLPFQSAKYLMETWPFGELL
+CKAVLSIDYYNMFTSIFTLTMMSVDRYIAVCHPVKALDFRTPAKAKLINICIWVLASGVG
+VPIMVMAVTRPRDGAVVCMLQFPSPSWYWDTVTKICVFLFAFVVPILIITVCYGLMLLRL
+RSVRLLSGSKEKDRSLRRITRMVLVVVGAFVVCWAPIHIFVIVWTLVDIDRRDPLVVAAL
+HLCIALGYANSSLNPVLYAFLDENFKRCFRQLCRKPCGRPDPSSFSRAREATARERVTAC
+TPSDGPGGGAAA. 
+Receptor Lymphocyte antigen 96: It has general function: Lipopolysaccharide receptor activity. It has specific function: Binds bacterial lipopolysaccharide (LPS) (PubMed:17803912, PubMed:17569869). Cooperates with TLR4 in the innate immune response to bacterial lipopolysaccharide (LPS), and with TLR2 in the response to cell wall components from Gram-positive and Gram-negative bacteria (PubMed:11160242, PubMed:11593030). Enhances TLR4-dependent activation of NF-kappa-B (PubMed:10359581). Cells expressing both LY96 and TLR4, but not TLR4 alone, respond to LPS (PubMed:10359581). Its amino acid sequence is: MLPFLFFSTLFSSIFTEAQKQYWVCNSSDASISYTYCDKMQYPISINVNPCIELKRSKGL
+LHIFYIPRRDLKQLYFNLYITVNTMNLPKRKEVICRGSDDDYSFCRALKGETVNTTISFS
+FKGIKFSKGKYKCVVEAISGSPEEMLFCLEFVILHQPNSN. 
+assistant
+CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)O.CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)O.OS(=O)(=O)O
+
+GPT response:
+CC1=CC=C(C=C1)CN[C@@H]2C3=CC=CC=C3CCC4=C2C=C(C=C4)OC
+=====================================
+user
+You are an expert in drug discovery, please generate a novel binder molecule for the following disease. Respond with a SMILES string of a hypothetical possible binder molecule. The disease is Myalgia, is Myalgia (also called muscle pain and muscle ache in layman's terms) is the medical term for muscle pain.  Myalgia is a symptom of many diseases. The most common cause of acute myalgia is the overuse of a muscle or group of muscles; another likely cause is viral infection, especially when there has been no trauma.
+. Some associated conditions are Acute Gouty Arthritis, Acute Musculoskeletal Pain, Allergic Reaction, Allergy to Tree Pollen, Ankylosing Spondylitis. It has the following receptors:
+Receptor Prostaglandin G/H synthase 2: It has general function: Prostaglandin-endoperoxide synthase activity. It has specific function: Converts arachidonate to prostaglandin H2 (PGH2), a committed step in prostanoid synthesis. Constitutively expressed in some tissues in physiological conditions, such as the endothelium, kidney and brain, and in pathological conditions, such as in cancer. PTGS2 is responsible for production of inflammatory prostaglandins. Up-regulation of PTGS2 is also associated with increased cell adhesion, phenotypic changes, resistance to apoptosis and tumor angiogenesis. In cancer cells, PTGS2 is a key step in the production of prostaglandin E2 (PGE2), which plays important roles in modulating motility, proliferation and resistance to apoptosis. Its amino acid sequence is: MLARALLLCAVLALSHTANPCCSHPCQNRGVCMSVGFDQYKCDCTRTGFYGENCSTPEFL
+TRIKLFLKPTPNTVHYILTHFKGFWNVVNNIPFLRNAIMSYVLTSRSHLIDSPPTYNADY
+GYKSWEAFSNLSYYTRALPPVPDDCPTPLGVKGKKQLPDSNEIVEKLLLRRKFIPDPQGS
+NMMFAFFAQHFTHQFFKTDHKRGPAFTNGLGHGVDLNHIYGETLARQRKLRLFKDGKMKY
+QIIDGEMYPPTVKDTQAEMIYPPQVPEHLRFAVGQEVFGLVPGLMMYATIWLREHNRVCD
+VLKQEHPEWGDEQLFQTSRLILIGETIKIVIEDYVQHLSGYHFKLKFDPELLFNKQFQYQ
+NRIAAEFNTLYHWHPLLPDTFQIHDQKYNYQQFIYNNSILLEHGITQFVESFTRQIAGRV
+AGGRNVPPAVQKVSQASIDQSRQMKYQSFNEYRKRFMLKPYESFEELTGEKEMSAELEAL
+YGDIDAVELYPALLVEKPRPDAIFGETMVEVGAPFSLKGLMGNVICSPAYWKPSTFGGEV
+GFQIINTASIQSLICNNVKGCPFTSFSVPDPELIKTVTINASSSRSGLDDINPTVLLKER
+STEL. 
+Receptor Prostaglandin G/H synthase 1: It has general function: Prostaglandin-endoperoxide synthase activity. It has specific function: Converts arachidonate to prostaglandin H2 (PGH2), a committed step in prostanoid synthesis. Involved in the constitutive production of prostanoids in particular in the stomach and platelets. In gastric epithelial cells, it is a key step in the generation of prostaglandins, such as prostaglandin E2 (PGE2), which plays an important role in cytoprotection. In platelets, it is involved in the generation of thromboxane A2 (TXA2), which promotes platelet activation and aggregation, vasoconstriction and proliferation of vascular smooth muscle cells. Its amino acid sequence is: MSRSLLLWFLLFLLLLPPLPVLLADPGAPTPVNPCCYYPCQHQGICVRFGLDRYQCDCTR
+TGYSGPNCTIPGLWTWLRNSLRPSPSFTHFLLTHGRWFWEFVNATFIREMLMRLVLTVRS
+NLIPSPPTYNSAHDYISWESFSNVSYYTRILPSVPKDCPTPMGTKGKKQLPDAQLLARRF
+LLRRKFIPDPQGTNLMFAFFAQHFTHQFFKTSGKMGPGFTKALGHGVDLGHIYGDNLERQ
+YQLRLFKDGKLKYQVLDGEMYPPSVEEAPVLMHYPRGIPPQSQMAVGQEVFGLLPGLMLY
+ATLWLREHNRVCDLLKAEHPTWGDEQLFQTTRLILIGETIKIVIEEYVQQLSGYFLQLKF
+DPELLFGVQFQYRNRIAMEFNHLYHWHPLMPDSFKVGSQEYSYEQFLFNTSMLVDYGVEA
+LVDAFSRQIAGRIGGGRNMDHHILHVAVDVIRESREMRLQPFNEYRKRFGMKPYTSFQEL
+VGEKEMAAELEELYGDIDALEFYPGLLLEKCHPNSIFGESMIEIGAPFSLKGLLGNPICS
+PEYWKPSTFGGEVGFNIVKTATLKKLVCLNTKTCPYVSFRVPDASQDDGPAVERPSTEL. 
+Receptor Prostaglandin E synthase 3: It has general function: Unfolded protein binding. It has specific function: Cytosolic prostaglandin synthase that catalyzes the oxidoreduction of prostaglandin endoperoxide H2 (PGH2) to prostaglandin E2 (PGE2) (PubMed:10922363). Molecular chaperone that localizes to genomic response elements in a hormone-dependent manner and disrupts receptor-mediated transcriptional activation, by promoting disassembly of transcriptional regulatory complexes (PubMed:11274138, PubMed:12077419). Facilitates HIF alpha proteins hydroxylation via interaction with EGLN1/PHD2, leading to recruit EGLN1/PHD2 to the HSP90 pathway (PubMed:24711448). Its amino acid sequence is: MQPASAKWYDRRDYVFIEFCVEDSKDVNVNFEKSKLTFSCLGGSDNFKHLNEIDLFHCID
+PNDSKHKRTDRSILCCLRKGESGQSWPRLTKERAKLNWLSVDFNNWKDWEDDSDEDMSNF
+DRFSEMMNNMGGDEDVDLPEVDGADDDSQDSDDEKMPDLE. 
+Receptor Transient receptor potential cation channel subfamily V member 1: It has general function: Transmembrane signaling receptor activity. It has specific function: Ligand-activated non-selective calcium permeant cation channel involved in detection of noxious chemical and thermal stimuli. Seems to mediate proton influx and may be involved in intracellular acidosis in nociceptive neurons. Involved in mediation of inflammatory pain and hyperalgesia. Sensitized by a phosphatidylinositol second messenger system activated by receptor tyrosine kinases, which involves PKC isozymes and PCL. Can be activated by endogenous compounds, including 12-hydroperoxytetraenoic acid and bradykinin. Acts as ionotropic endocannabinoid receptor with central neuromodulatory effects. Triggers a form of long-term depression (TRPV1-LTD) mediated by the endocannabinoid anandamine in the hippocampus and nucleus accumbens by affecting AMPA receptors endocytosis (By similarity). Activation by vanilloids, like capsaicin, and temperatures higher than 42 degrees Celsius, exhibits a time- and Ca(2+)-dependent outward rectification, followed by a long-lasting refractory state. Mild extracellular acidic pH (6.5) potentiates channel activation by noxious heat and vanilloids, whereas acidic conditions (pH <6) directly activate the channel. Its amino acid sequence is: MKKWSSTDLGAAADPLQKDTCPDPLDGDPNSRPPPAKPQLSTAKSRTRLFGKGDSEEAFP
+VDCPHEEGELDSCPTITVSPVITIQRPGDGPTGARLLSQDSVAASTEKTLRLYDRRSIFE
+AVAQNNCQDLESLLLFLQKSKKHLTDNEFKDPETGKTCLLKAMLNLHDGQNTTIPLLLEI
+ARQTDSLKELVNASYTDSYYKGQTALHIAIERRNMALVTLLVENGADVQAAAHGDFFKKT
+KGRPGFYFGELPLSLAACTNQLGIVKFLLQNSWQTADISARDSVGNTVLHALVEVADNTA
+DNTKFVTSMYNEILMLGAKLHPTLKLEELTNKKGMTPLALAAGTGKIGVLAYILQREIQE
+PECRHLSRKFTEWAYGPVHSSLYDLSCIDTCEKNSVLEVIAYSSSETPNRHDMLLVEPLN
+RLLQDKWDRFVKRIFYFNFLVYCLYMIIFTMAAYYRPVDGLPPFKMEKTGDYFRVTGEIL
+SVLGGVYFFFRGIQYFLQRRPSMKTLFVDSYSEMLFFLQSLFMLATVVLYFSHLKEYVAS
+MVFSLALGWTNMLYYTRGFQQMGIYAVMIEKMILRDLCRFMFVYIVFLFGFSTAVVTLIE
+DGKNDSLPSESTSHRWRGPACRPPDSSYNSLYSTCLELFKFTIGMGDLEFTENYDFKAVF
+IILLLAYVILTYILLLNMLIALMGETVNKIAQESKNIWKLQRAITILDTEKSFLKCMRKA
+FRSGKLLQVGYTPDGKDDYRWCFRVDEVNWTTWNTNVGIINEDPGNCEGVKRTLSFSLRS
+SRVSGRHWKNFALVPLLREASARDRQSAQPEEVYLRQFSGSLKPEDAEVFKSPAASGEK. 
+assistant
+CC(=O)NC1=CC=C(C=C1)O
+
+GPT response:
+CC(=O)C1=CC(=CC=C1C)N2C(=O)C(C2=O)O
+=====================================
+user
+You are an expert in drug discovery, please generate a novel binder molecule for the following disease. Respond with a SMILES string of a hypothetical possible binder molecule. The disease is Rat bite fever, is Rat-bite fever (RBF) is an acute, febrile human illness caused by bacteria transmitted by rodents, in most cases, which is passed from rodent to human by the rodent's urine or mucous secretions. Alternative names for rat-bite fever include streptobacillary fever, streptobacillosis, spirillary fever, bogger, and epidemic arthritic erythema. It is a rare disease spread by infected rodents and caused by two specific types of bacteria:
+. Some associated conditions are Actinomycosis, Acute Rheumatic Fever, Anthrax, Bloodstream Infections, Clostridium Botulinum Toxin Adverse Reaction. It has the following receptors:
+Receptor Penicillin-binding protein 3: It has general function: Not Available. It has specific function: Penicillin binding Its amino acid sequence is: MLKRLKEKSNDEIVQNTINKRINFIFGVIIFIFAVLVLRLGYLQIAQGSHYKQIIKNDEN
+ITVNESVPRGRILDRNGKVLVDNASKMAITYTRGRKTTQSEMLDTAEKLSKLIKMDTKKI
+TERDKKDFWIQLHPKKAKAMMTKEQAMLADGSIKQDQYDKQLLSKIGKSQLDELSSKDLQ
+VLAIFREMNAGTVLDPQMIKNEDVSEKEYAAVSQQLSKLPGVNTSMDWDRKYPYGDTLRG
+IFGDVSTPAEGIPKELTEHYLSKGYSRNDRVGKSYLEYQYEDVLRGKKKEMKYTTDKSGK
+VTSSEVLNPGARGQDLKLTIDIDLQKEVEALLDKQIKKLRSQGAKDMDNAMMVVQNPKNG
+DILALAGKQINKSGKMTDYDIGTFTSQFAVGSSVKGGTLLAGYQNKAIKVGETMVDEPLH
+FQGGLTKRSYFNKNGHVTINDKQALMHSSNVYMFKTALKLAGDPYYSGMALPSDISSPAQ
+KLRRGLNQVGLGVKTGIDLPNETRGQIEPLTNNPGNYLDLSIGQYDTYTPLQLSQYVSTI
+ANDGYRIQPHIGLTIHESTNKDEVGPLKKKINGTVLNKVNNTEKEIKQIQEGFKMAFNDK
+DGTGYVSFKDTVVPTAGKTGTAEVFQNGEPRVNSTYIGYAPIDDPKLAFSIVYTNQPVPP
+PWLTGGDLGRDVINYYFKQLGKNDKNKDKDK. 
+Receptor Solute carrier family 22 member 8: It has general function: Sodium-independent organic anion transmembrane transporter activity. It has specific function: Plays an important role in the excretion/detoxification of endogenous and exogenous organic anions, especially from the brain and kidney. Involved in the transport basolateral of steviol, fexofenadine. Transports benzylpenicillin (PCG), estrone-3-sulfate (E1S), cimetidine (CMD), 2,4-dichloro-phenoxyacetate (2,4-D), p-amino-hippurate (PAH), acyclovir (ACV) and ochratoxin (OTA). Its amino acid sequence is: MTFSEILDRVGSMGHFQFLHVAILGLPILNMANHNLLQIFTAATPVHHCRPPHNASTGPW
+VLPMGPNGKPERCLRFVHPPNASLPNDTQRAMEPCLDGWVYNSTKDSIVTEWDLVCNSNK
+LKEMAQSIFMAGILIGGLVLGDLSDRFGRRPILTCSYLLLAASGSGAAFSPTFPIYMVFR
+FLCGFGISGITLSTVILNVEWVPTRMRAIMSTALGYCYTFGQFILPGLAYAIPQWRWLQL
+TVSIPFFVFFLSSWWTPESIRWLVLSGKSSKALKILRRVAVFNGKKEEGERLSLEELKLN
+LQKEISLAKAKYTASDLFRIPMLRRMTFCLSLAWFATGFAYYSLAMGVEEFGVNLYILQI
+IFGGVDVPAKFITILSLSYLGRHTTQAAALLLAGGAILALTFVPLDLQTVRTVLAVFGKG
+CLSSSFSCLFLYTSELYPTVIRQTGMGVSNLWTRVGSMVSPLVKITGEVQPFIPNIIYGI
+TALLGGSAALFLPETLNQPLPETIEDLENWSLRAKKPKQEPEVEKASQRIPLQPHGPGLG
+SS. 
+Receptor Solute carrier family 15 member 1: It has general function: Proton-dependent oligopeptide secondary active transmembrane transporter activity. It has specific function: Proton-coupled intake of oligopeptides of 2 to 4 amino acids with a preference for dipeptides. May constitute a major route for the absorption of protein digestion end-products. Its amino acid sequence is: MGMSKSHSFFGYPLSIFFIVVNEFCERFSYYGMRAILILYFTNFISWDDNLSTAIYHTFV
+ALCYLTPILGALIADSWLGKFKTIVSLSIVYTIGQAVTSVSSINDLTDHNHDGTPDSLPV
+HVVLSLIGLALIALGTGGIKPCVSAFGGDQFEEGQEKQRNRFFSIFYLAINAGSLLSTII
+TPMLRVQQCGIHSKQACYPLAFGVPAALMAVALIVFVLGSGMYKKFKPQGNIMGKVAKCI
+GFAIKNRFRHRSKAFPKREHWLDWAKEKYDERLISQIKMVTRVMFLYIPLPMFWALFDQQ
+GSRWTLQATTMSGKIGALEIQPDQMQTVNAILIVIMVPIFDAVLYPLIAKCGFNFTSLKK
+MAVGMVLASMAFVVAAIVQVEIDKTLPVFPKGNEVQIKVLNIGNNTMNISLPGEMVTLGP
+MSQTNAFMTFDVNKLTRINISSPGSPVTAVTDDFKQGQRHTLLVWAPNHYQVVKDGLNQK
+PEKGENGIRFVNTFNELITITMSGKVYANISSYNASTYQFFPSGIKGFTISSTEIPPQCQ
+PNFNTFYLEFGSAYTYIVQRKNDSCPEVKVFEDISANTVNMALQIPQYFLLTCGEVVFSV
+TGLEFSYSQAPSNMKSVLQAGWLLTVAVGNIIVLIVAGAGQFSKQWAEYILFAALLLVVC
+VIFAIMARFYTYINPAEIEAQFDEDEKKNRLEKSNPYFMSGANSQKQM. 
+Receptor Solute carrier family 15 member 2: It has general function: Peptide:proton symporter activity. It has specific function: Proton-coupled intake of oligopeptides of 2 to 4 amino acids with a preference for dipeptides. Its amino acid sequence is: MNPFQKNESKETLFSPVSIEEVPPRPPSPPKKPSPTICGSNYPLSIAFIVVNEFCERFSY
+YGMKAVLILYFLYFLHWNEDTSTSIYHAFSSLCYFTPILGAAIADSWLGKFKTIIYLSLV
+YVLGHVIKSLGALPILGGQVVHTVLSLIGLSLIALGTGGIKPCVAAFGGDQFEEKHAEER
+TRYFSVFYLSINAGSLISTFITPMLRGDVQCFGEDCYALAFGVPGLLMVIALVVFAMGSK
+IYNKPPPEGNIVAQVFKCIWFAISNRFKNRSGDIPKRQHWLDWAAEKYPKQLIMDVKALT
+RVLFLYIPLPMFWALLDQQGSRWTLQAIRMNRNLGFFVLQPDQMQVLNPLLVLIFIPLFD
+FVIYRLVSKCGINFSSLRKMAVGMILACLAFAVAAAVEIKINEMAPAQPGPQEVFLQVLN
+LADDEVKVTVVGNENNSLLIESIKSFQKTPHYSKLHLKTKSQDFHFHLKYHNLSLYTEHS
+VQEKNWYSLVIREDGNSISSMMVKDTESRTTNGMTTVRFVNTLHKDVNISLSTDTSLNVG
+EDYGVSAYRTVQRGEYPAVHCRTEDKNFSLNLGLLDFGAAYLFVITNNTNQGLQAWKIED
+IPANKMSIAWQLPQYALVTAGEVMFSVTGLEFSYSQAPSSMKSVLQAAWLLTIAVGNIIV
+LVVAQFSGLVQWAEFILFSCLLLVICLIFSIMGYYYVPVKTEDMRGPADKHIPHIQGNMI
+KLETKKTKL. 
+assistant
+CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)[O-])C.[K+]
+
+GPT response:
+CC(C)(C)OC(=O)C1=CC=C(C=C1)N2CCC(CC2)C3=CC(=C(C=C3)OC)C(=O)NC4=CC=C(C=C4)N
+=====================================
+user
+You are an expert in drug discovery, please generate a novel binder molecule for the following disease. Respond with a SMILES string of a hypothetical possible binder molecule. The disease is Cataplexy, is Cataplexy is a sudden and transient episode of muscle weakness accompanied by full conscious awareness, typically triggered by emotions such as laughing, crying, or terror.[1] Cataplexy affects approximately 20% of people who have narcolepsy,[2] and is caused by an autoimmune destruction of hypothalamic neurons that produce the neuropeptide hypocretin (also called orexin), which regulates arousal and has a role in stabilization of the transition between wake and sleep states.[3] Cataplexy without narcolepsy is rare and the cause is unknown.
+. Some associated conditions are Alcohol Dependency, Anorexia Nervosa, Bulimia Nervosa, Depression, Major Depressive Disorder. It has the following receptors:
+Receptor Sodium-dependent serotonin transporter: It has general function: Serotonin:sodium symporter activity. It has specific function: Serotonin transporter whose primary function in the central nervous system involves the regulation of serotonergic signaling via transport of serotonin molecules from the synaptic cleft back into the pre-synaptic terminal for re-utilization. Plays a key role in mediating regulation of the availability of serotonin to other receptors of serotonergic systems. Terminates the action of serotonin and recycles it in a sodium-dependent manner. Its amino acid sequence is: METTPLNSQKQLSACEDGEDCQENGVLQKVVPTPGDKVESGQISNGYSAVPSPGAGDDTR
+HSIPATTTTLVAELHQGERETWGKKVDFLLSVIGYAVDLGNVWRFPYICYQNGGGAFLLP
+YTIMAIFGGIPLFYMELALGQYHRNGCISIWRKICPIFKGIGYAICIIAFYIASYYNTIM
+AWALYYLISSFTDQLPWTSCKNSWNTGNCTNYFSEDNITWTLHSTSPAEEFYTRHVLQIH
+RSKGLQDLGGISWQLALCIMLIFTVIYFSIWKGVKTSGKVVWVTATFPYIILSVLLVRGA
+TLPGAWRGVLFYLKPNWQKLLETGVWIDAAAQIFFSLGPGFGVLLAFASYNKFNNNCYQD
+ALVTSVVNCMTSFVSGFVIFTVLGYMAEMRNEDVSEVAKDAGPSLLFITYAEAIANMPAS
+TFFAIIFFLMLITLGLDSTFAGLEGVITAVLDEFPHVWAKRRERFVLAVVITCFFGSLVT
+LTFGGAYVVKLLEEYATGPAVLTVALIEAVAVSWFYGITQFCRDVKEMLGFSPGWFWRIC
+WVAISPLFLLFIICSFLMSPPQLRLFQYNYPYWSIILGYCIGTSSFICIPTYIAYRLIIT
+PGTFKERIIKSITPETPTEIPCGDIRLNAV. 
+Receptor 5-hydroxytryptamine receptor 2C: It has general function: Serotonin receptor activity. It has specific function: G-protein coupled receptor for 5-hydroxytryptamine (serotonin). Also functions as a receptor for various drugs and psychoactive substances, including ergot alkaloid derivatives, 1-2,5,-dimethoxy-4-iodophenyl-2-aminopropane (DOI) and lysergic acid diethylamide (LSD). Ligand binding causes a conformation change that triggers signaling via guanine nucleotide-binding proteins (G proteins) and modulates the activity of down-stream effectors. Beta-arrestin family members inhibit signaling via G proteins and mediate activation of alternative signaling pathways. Signaling activates a phosphatidylinositol-calcium second messenger system that modulates the activity of phosphatidylinositol 3-kinase and down-stream signaling cascades and promotes the release of Ca(2+) ions from intracellular stores. Regulates neuronal activity via the activation of short transient receptor potential calcium channels in the brain, and thereby modulates the activation of pro-opiomelacortin neurons and the release of CRH that then regulates the release of corticosterone. Plays a role in the regulation of appetite and eating behavior, responses to anxiogenic stimuli and stress. Plays a role in insulin sensitivity and glucose homeostasis. Its amino acid sequence is: MVNLRNAVHSFLVHLIGLLVWQCDISVSPVAAIVTDIFNTSDGGRFKFPDGVQNWPALSI
+VIIIIMTIGGNILVIMAVSMEKKLHNATNYFLMSLAIADMLVGLLVMPLSLLAILYDYVW
+PLPRYLCPVWISLDVLFSTASIMHLCAISLDRYVAIRNPIEHSRFNSRTKAIMKIAIVWA
+ISIGVSVPIPVIGLRDEEKVFVNNTTCVLNDPNFVLIGSFVAFFIPLTIMVITYCLTIYV
+LRRQALMLLHGHTEEPPGLSLDFLKCCKRNTAEEENSANPNQDQNARRRKKKERRPRGTM
+QAINNERKASKVLGIVFFVFLIMWCPFFITNILSVLCEKSCNQKLMEKLLNVFVWIGYVC
+SGINPLVYTLFNKIYRRAFSNYLRCNYKVEKKPPVRQIPRVAATALSGRELNVNIYRHTN
+EPVIEKASDNEPGIEMQVENLELPVNPSSVVSERISSV. 
+Receptor Neuronal acetylcholine receptor subunit alpha-2: It has general function: Drug binding. It has specific function: After binding acetylcholine, the AChR responds by an extensive change in conformation that affects all subunits and leads to opening of an ion-conducting channel across the plasma membrane. Its amino acid sequence is: MGPSCPVFLSFTKLSLWWLLLTPAGGEEAKRPPPRAPGDPLSSPSPTALPQGGSHTETED
+RLFKHLFRGYNRWARPVPNTSDVVIVRFGLSIAQLIDVDEKNQMMTTNVWLKQEWSDYKL
+RWNPTDFGNITSLRVPSEMIWIPDIVLYNNADGEFAVTHMTKAHLFSTGTVHWVPPAIYK
+SSCSIDVTFFPFDQQNCKMKFGSWTYDKAKIDLEQMEQTVDLKDYWESGEWAIVNATGTY
+NSKKYDCCAEIYPDVTYAFVIRRLPLFYTINLIIPCLLISCLTVLVFYLPSDCGEKITLC
+ISVLLSLTVFLLLITEIIPSTSLVIPLIGEYLLFTMIFVTLSIVITVFVLNVHHRSPSTH
+TMPHWVRGALLGCVPRWLLMNRPPPPVELCHPLRLKLSPSYHWLESNVDAEEREVVVEEE
+DRWACAGHVAPSVGTLCSHGHLHSGASGPKAEALLQEGELLLSPHMQKALEGVHYIADHL
+RSEDADSSVKEDWKYVAMVIDRIFLWLFIIVCFLGTIGLFLPPFLAGMI. 
+Receptor Neuronal acetylcholine receptor subunit alpha-3: It has general function: Ligand-gated ion channel activity. It has specific function: After binding acetylcholine, the AChR responds by an extensive change in conformation that affects all subunits and leads to opening of an ion-conducting channel across the plasma membrane. Its amino acid sequence is: MGSGPLSLPLALSPPRLLLLLLLSLLPVARASEAEHRLFERLFEDYNEIIRPVANVSDPV
+IIHFEVSMSQLVKVDEVNQIMETNLWLKQIWNDYKLKWNPSDYGGAEFMRVPAQKIWKPD
+IVLYNNAVGDFQVDDKTKALLKYTGEVTWIPPAIFKSSCKIDVTYFPFDYQNCTMKFGSW
+SYDKAKIDLVLIGSSMNLKDYWESGEWAIIKAPGYKHDIKYNCCEEIYPDITYSLYIRRL
+PLFYTINLIIPCLLISFLTVLVFYLPSDCGEKVTLCISVLLSLTVFLLVITETIPSTSLV
+IPLIGEYLLFTMIFVTLSIVITVFVLNVHYRTPTTHTMPSWVKTVFLNLLPRVMFMTRPT
+SNEGNAQKPRPLYGAELSNLNCFSRAESKGCKEGYPCQDGMCGYCHHRRIKISNFSANLT
+RSSSSESVDAVLSLSALSPEIKEAIQSVKYIAENMKAQNEAKEIQDDWKYVAMVIDRIFL
+WVFTLVCILGTAGLFLQPLMAREDA. 
+Receptor Neuronal acetylcholine receptor subunit beta-4: It has general function: Ligand-gated ion channel activity. It has specific function: After binding acetylcholine, the AChR responds by an extensive change in conformation that affects all subunits and leads to opening of an ion-conducting channel across the plasma membrane. Its amino acid sequence is: MRRAPSLVLFFLVALCGRGNCRVANAEEKLMDDLLNKTRYNNLIRPATSSSQLISIKLQL
+SLAQLISVNEREQIMTTNVWLKQEWTDYRLTWNSSRYEGVNILRIPAKRIWLPDIVLYNN
+ADGTYEVSVYTNLIVRSNGSVLWLPPAIYKSACKIEVKYFPFDQQNCTLKFRSWTYDHTE
+IDMVLMTPTASMDDFTPSGEWDIVALPGRRTVNPQDPSYVDVTYDFIIKRKPLFYTINLI
+IPCVLTTLLAILVFYLPSDCGEKMTLCISVLLALTFFLLLISKIVPPTSLDVPLIGKYLM
+FTMVLVTFSIVTSVCVLNVHHRSPSTHTMAPWVKRCFLHKLPTFLFMKRPGPDSSPARAF
+PPSKSCVTKPEATATSTSPSNFYGNSMYFVNPASAASKSPAGSTPVAIPRDFWLRSSGRF
+RQDVQEALEGVSFIAQHMKNDDEDQSVVEDWKYVAMVVDRLFLWVFMFVCVLGTVGLFLP
+PLFQTHAASEGPYAAQRD. 
+Receptor Cyclin-dependent kinases regulatory subunit 1: It has general function: Cyclin-dependent protein serine/threonine kinase regulator activity. It has specific function: Binds to the catalytic subunit of the cyclin dependent kinases and is essential for their biological function. Its amino acid sequence is: MSHKQIYYSDKYDDEEFEYRHVMLPKDIAKLVPKTHLMSESEWRNLGVQQSQGWVHYMIH
+EPEPHILLFRRPLPKKPKK. 
+Receptor Potassium voltage-gated channel subfamily H member 2: It has general function: Voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization. It has specific function: Pore-forming (alpha) subunit of voltage-gated inwardly rectifying potassium channel. Channel properties are modulated by cAMP and subunit assembly. Mediates the rapidly activating component of the delayed rectifying potassium current in heart (IKr). Isoforms USO have no channel activity by themself, but modulates channel characteristics by forming heterotetramers with other isoforms which are retained intracellularly and undergo ubiquitin-dependent degradation. Its amino acid sequence is: MPVRRGHVAPQNTFLDTIIRKFEGQSRKFIIANARVENCAVIYCNDGFCELCGYSRAEVM
+QRPCTCDFLHGPRTQRRAAAQIAQALLGAEERKVEIAFYRKDGSCFLCLVDVVPVKNEDG
+AVIMFILNFEVVMEKDMVGSPAHDTNHRGPPTSWLAPGRAKTFRLKLPALLALTARESSV
+RSGGAGGAGAPGAVVVDVDLTPAAPSSESLALDEVTAMDNHVAGLGPAEERRALVGPGSP
+PRSAPGQLPSPRAHSLNPDASGSSCSLARTRSRESCASVRRASSADDIEAMRAGVLPPPP
+RHASTGAMHPLRSGLLNSTSDSDLVRYRTISKIPQITLNFVDLKGDPFLASPTSDREIIA
+PKIKERTHNVTEKVTQVLSLGADVLPEYKLQAPRIHRWTILHYSPFKAVWDWLILLLVIY
+TAVFTPYSAAFLLKETEEGPPATECGYACQPLAVVDLIVDIMFIVDILINFRTTYVNANE
+EVVSHPGRIAVHYFKGWFLIDMVAAIPFDLLIFGSGSEELIGLLKTARLLRLVRVARKLD
+RYSEYGAAVLFLLMCTFALIAHWLACIWYAIGNMEQPHMDSRIGWLHNLGDQIGKPYNSS
+GLGGPSIKDKYVTALYFTFSSLTSVGFGNVSPNTNSEKIFSICVMLIGSLMYASIFGNVS
+AIIQRLYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWSYTNGIDMNAVLKGF
+PECLQADICLHLNRSLLQHCKPFRGATKGCLRALAMKFKTTHAPPGDTLVHAGDLLTALY
+FISRGSIEILRGDVVVAILGKNDIFGEPLNLYARPGKSNGDVRALTYCDLHKIHRDDLLE
+VLDMYPEFSDHFWSSLEITFNLRDTNMIPGSPGSTELEGGFSRQRKRKLSFRRRTDKDTE
+QPGEVSALGPGRAGAGPSSRGRPGGPWGESPSSGPSSPESSEDEGPGRSSSPLRLVPFSS
+PRPPGEPPGGEPLMEDCEKSSDTCNPLSGAFSGVSNIFSFWGDSRGRQYQELPRCPAPTP
+SLLNIPLSSPGRRPRGDVESRLDALQRQLNRLETRLSADMATVLQLLQRQMTLVPPAYSA
+VTTPGPGPTSTSPLLPVSPLPTLTLDSLSQVSQFMACEELPPGAPELPQEGPTRRLSLPG
+QLGALTSQPLHRHGSDPGS. 
+assistant
+CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F.Cl
+
+GPT response:
+CC(C)(C)OC(=O)C1=CC=C(C=C1)N2CCC(CC2)C3=CC(=C(C=C3)OC)C(=O)NC4=CC=C(C=C4)N
+=====================================
+user
+You are an expert in drug discovery, please generate a novel binder molecule for the following disease. Respond with a SMILES string of a hypothetical possible binder molecule. The disease is Pulmonary Arterial Hypertension, is Pulmonary hypertension (PH or PHTN) is a condition of increased blood pressure in the arteries of the lungs.[7] Symptoms include shortness of breath, fainting, tiredness, chest pain, swelling of the legs, and a fast heartbeat.[7][2] The condition may make it difficult to exercise.[7] Onset is typically gradual.[8]
+According to the definition at the 6th World Symposium of Pulmonary Hypertension in 2018, a patient is deemed to have pulmonary hypertension if the pulmonary mean arterial pressure is greater than 20mmHg at rest, revised down from a purely arbitrary 25mmHg, and pulmonary vascular resistance (PVR) greater than 3 Wood units.
+. Some associated conditions are Erectile Dysfunction, NYHA Functional Class II-III Pulmonary arterial hypertension, Premature Ejaculation. It has the following receptors:
+Receptor cGMP-specific 3',5'-cyclic phosphodiesterase: It has general function: Metal ion binding. It has specific function: Plays a role in signal transduction by regulating the intracellular concentration of cyclic nucleotides. This phosphodiesterase catalyzes the specific hydrolysis of cGMP to 5'-GMP (PubMed:9714779, PubMed:15489334). Specifically regulates nitric-oxide-generated cGMP (PubMed:15489334). Its amino acid sequence is: MERAGPSFGQQRQQQQPQQQKQQQRDQDSVEAWLDDHWDFTFSYFVRKATREMVNAWFAE
+RVHTIPVCKEGIRGHTESCSCPLQQSPRADNSAPGTPTRKISASEFDRPLRPIVVKDSEG
+TVSFLSDSEKKEQMPLTPPRFDHDEGDQCSRLLELVKDISSHLDVTALCHKIFLHIHGLI
+SADRYSLFLVCEDSSNDKFLISRLFDVAEGSTLEEVSNNCIRLEWNKGIVGHVAALGEPL
+NIKDAYEDPRFNAEVDQITGYKTQSILCMPIKNHREEVVGVAQAINKKSGNGGTFTEKDE
+KDFAAYLAFCGIVLHNAQLYETSLLENKRNQVLLDLASLIFEEQQSLEVILKKIAATIIS
+FMQVQKCTIFIVDEDCSDSFSSVFHMECEELEKSSDTLTREHDANKINYMYAQYVKNTME
+PLNIPDVSKDKRFPWTTENTGNVNQQCIRSLLCTPIKNGKKNKVIGVCQLVNKMEENTGK
+VKPFNRNDEQFLEAFVIFCGLGIQNTQMYEAVERAMAKQMVTLEVLSYHASAAEEETREL
+QSLAAAVVPSAQTLKITDFSFSDFELSDLETALCTIRMFTDLNLVQNFQMKHEVLCRWIL
+SVKKNYRKNVAYHNWRHAFNTAQCMFAALKAGKIQNKLTDLEILALLIAALSHDLDHRGV
+NNSYIQRSEHPLAQLYCHSIMEHHHFDQCLMILNSPGNQILSGLSIEEYKTTLKIIKQAI
+LATDLALYIKRRGEFFELIRKNQFNLEDPHQKELFLAMLMTACDLSAITKPWPIQQRIAE
+LVATEFFDQGDRERKELNIEPTDLMNREKKNKIPSMQVGFIDAICLQLYEALTHVSEDCF
+PLLDGCRKNRQKWQALAEQQEKMLINGESGQAKRN. 
+Receptor Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma: It has general function: Enzyme inhibitor activity. It has specific function: Participates in processes of transmission and amplification of the visual signal. cGMP-PDEs are the effector molecules in G-protein-mediated phototransduction in vertebrate rods and cones. Its amino acid sequence is: MNLEPPKAEFRSATRVAGGPVTPRKGPPKFKQRQTRQFKSKPPKKGVQGFGDDIPGMEGL
+GTDITVICPWEAFNHLELHELAQYGII. 
+Receptor Retinal cone rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma: It has general function: Enzyme inhibitor activity. It has specific function: Participates in processes of transmission and amplification of the visual signal. cGMP-PDEs are the effector molecules in G-protein-mediated phototransduction in vertebrate rods and cones. Its amino acid sequence is: MSDNTTLPAPASNQGPTTPRKGPPKFKQRQTRQFKSKPPKKGVKGFGDDIPGMEGLGTDI
+TVICPWEAFSHLELHELAQFGII. 
+Receptor Ornithine decarboxylase: It has general function: Protein homodimerization activity. It has specific function: Key enzyme of polyamine biosynthesis that converts ornithine into putrescine, which is the precursor for the polyamines, spermidine and spermine. Its amino acid sequence is: MNNFGNEEFDCHFLDEGFTAKDILDQKINEVSSSDDKDAFYVADLGDILKKHLRWLKALP
+RVTPFYAVKCNDSKAIVKTLAATGTGFDCASKTEIQLVQSLGVPPERIIYANPCKQVSQI
+KYAANNGVQMMTFDSEVELMKVARAHPKAKLVLRIATDDSKAVCRLSVKFGATLRTSRLL
+LERAKELNIDVVGVSFHVGSGCTDPETFVQAISDARCVFDMGAEVGFSMYLLDIGGGFPG
+SEDVKLKFEEITGVINPALDKYFPSDSGVRIIAEPGRYYVASAFTLAVNIIAKKIVLKEQ
+TGSDDEDESSEQTFMYYVNDGVYGSFNCILYDHAHVKPLLQKRPKPDEKYYSSSIWGPTC
+DGLDRIVERCDLPEMHVGDWMLFENMGAYTVAAASTFNGFQRPTIYYVMSGPAWQLMQQF
+QNPDFPPEVEEQDASTLPVSCAWESGMKRHRAACASASINV. 
+Receptor Programmed cell death 1 ligand 1: It has general function: Not Available. It has specific function: Involved in the costimulatory signal, essential for T-cell proliferation and production of IL10 and IFNG, in an IL2-dependent and a PDCD1-independent manner. Interaction with PDCD1 inhibits T-cell proliferation and cytokine production. Its amino acid sequence is: MRIFAVFIFMTYWHLLNAFTVTVPKDLYVVEYGSNMTIECKFPVEKQLDLAALIVYWEME
+DKNIIQFVHGEEDLKVQHSSYRQRARLLKDQLSLGNAALQITDVKLQDAGVYRCMISYGG
+ADYKRITVKVNAPYNKINQRILVVDPVTSEHELTCQAEGYPKAEVIWTSSDHQVLSGKTT
+TTNSKREEKLFNVTSTLRINTTTNEIFYCTFRRLDPEENHTAELVIPELPLAHPPNERTH
+LVILGAILLCLGVALTFIFRLRKGRMMDVKKCGIQDTNSKKQSDTHLEET. 
+assistant
+CCCC1=NN(C2=C1N=C(NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O
+
+GPT response:
+CC(C)(C)OC(=O)C1=CC=C(C=C1)N2CCC(CC2)C3=CC(=C(C=C3)OC)C(=O)NC4=CC=C(C=C4)N
+=====================================
+user
+You are an expert in drug discovery, please generate a novel binder molecule for the following disease. Respond with a SMILES string of a hypothetical possible binder molecule. The disease is Narcolepsy, is Narcolepsy is a chronic neurological disorder that involves a decreased ability to regulate sleep–wake cycles.[1] Symptoms often include periods of excessive daytime sleepiness and brief involuntary sleep episodes. [1] Narcolepsy paired with cataplexy is evidenced to be an autoimmune disorder.[3] These experiences of cataplexy can be brought on by strong emotions. Less commonly, there may be vivid hallucinations or an inability to move (sleep paralysis) while falling asleep or waking up. People with narcolepsy tend to sleep about the same number of hours per day as people without, but the quality of sleep tends to be lessened.[1]
+. Some associated conditions are Attention Deficit Hyperactivity Disorder. It has the following receptors:
+Receptor Sodium-dependent dopamine transporter: It has general function: Monoamine transmembrane transporter activity. It has specific function: Amine transporter. Terminates the action of dopamine by its high affinity sodium-dependent reuptake into presynaptic terminals. Its amino acid sequence is: MSKSKCSVGLMSSVVAPAKEPNAVGPKEVELILVKEQNGVQLTSSTLTNPRQSPVEAQDR
+ETWGKKIDFLLSVIGFAVDLANVWRFPYLCYKNGGGAFLVPYLLFMVIAGMPLFYMELAL
+GQFNREGAAGVWKICPILKGVGFTVILISLYVGFFYNVIIAWALHYLFSSFTTELPWIHC
+NNSWNSPNCSDAHPGDSSGDSSGLNDTFGTTPAAEYFERGVLHLHQSHGIDDLGPPRWQL
+TACLVLVIVLLYFSLWKGVKTSGKVVWITATMPYVVLTALLLRGVTLPGAIDGIRAYLSV
+DFYRLCEASVWIDAATQVCFSLGVGFGVLIAFSSYNKFTNNCYRDAIVTTSINSLTSFSS
+GFVVFSFLGYMAQKHSVPIGDVAKDGPGLIFIIYPEAIATLPLSSAWAVVFFIMLLTLGI
+DSAMGGMESVITGLIDEFQLLHRHRELFTLFIVLATFLLSLFCVTNGGIYVFTLLDHFAA
+GTSILFGVLIEAIGVAWFYGVGQFSDDIQQMTGQRPSLYWRLCWKLVSPCFLLFVVVVSI
+VTFRPPHYGAYIFPDWANALGWVIATSSMAMVPIYAAYKFCSLPGSFREKLAYAIAPEKD
+RELVDRGEVRQFTLRHWLKV. 
+Receptor 5-hydroxytryptamine receptor 1A: It has general function: Serotonin receptor activity. It has specific function: G-protein coupled receptor for 5-hydroxytryptamine (serotonin). Also functions as a receptor for various drugs and psychoactive substances. Ligand binding causes a conformation change that triggers signaling via guanine nucleotide-binding proteins (G proteins) and modulates the activity of down-stream effectors, such as adenylate cyclase. Beta-arrestin family members inhibit signaling via G proteins and mediate activation of alternative signaling pathways. Signaling inhibits adenylate cyclase activity and activates a phosphatidylinositol-calcium second messenger system that regulates the release of Ca(2+) ions from intracellular stores. Plays a role in the regulation of 5-hydroxytryptamine release and in the regulation of dopamine and 5-hydroxytryptamine metabolism. Plays a role in the regulation of dopamine and 5-hydroxytryptamine levels in the brain, and thereby affects neural activity, mood and behavior. Plays a role in the response to anxiogenic stimuli. Its amino acid sequence is: MDVLSPGQGNNTTSPPAPFETGGNTTGISDVTVSYQVITSLLLGTLIFCAVLGNACVVAA
+IALERSLQNVANYLIGSLAVTDLMVSVLVLPMAALYQVLNKWTLGQVTCDLFIALDVLCC
+TSSILHLCAIALDRYWAITDPIDYVNKRTPRRAAALISLTWLIGFLISIPPMLGWRTPED
+RSDPDACTISKDHGYTIYSTFGAFYIPLLLMLVLYGRIFRAARFRIRKTVKKVEKTGADT
+RHGASPAPQPKKSVNGESGSRNWRLGVESKAGGALCANGAVRQGDDGAALEVIEVHRVGN
+SKEHLPLPSEAGPTPCAPASFERKNERNAEAKRKMALARERKTVKTLGIIMGTFILCWLP
+FFIVALVLPFCESSCHMPTLLGAIINWLGYSNSLLNPVIYAYFNKDFQNAFKKIIKCKFC
+RQ. 
+Receptor Sodium-dependent noradrenaline transporter: It has general function: Norepinephrine:sodium symporter activity. It has specific function: Amine transporter. Terminates the action of noradrenaline by its high affinity sodium-dependent reuptake into presynaptic terminals. Its amino acid sequence is: MLLARMNPQVQPENNGADTGPEQPLRARKTAELLVVKERNGVQCLLAPRDGDAQPRETWG
+KKIDFLLSVVGFAVDLANVWRFPYLCYKNGGGAFLIPYTLFLIIAGMPLFYMELALGQYN
+REGAATVWKICPFFKGVGYAVILIALYVGFYYNVIIAWSLYYLFSSFTLNLPWTDCGHTW
+NSPNCTDPKLLNGSVLGNHTKYSKYKFTPAAEFYERGVLHLHESSGIHDIGLPQWQLLLC
+LMVVVIVLYFSLWKGVKTSGKVVWITATLPYFVLFVLLVHGVTLPGASNGINAYLHIDFY
+RLKEATVWIDAATQIFFSLGAGFGVLIAFASYNKFDNNCYRDALLTSSINCITSFVSGFA
+IFSILGYMAHEHKVNIEDVATEGAGLVFILYPEAISTLSGSTFWAVVFFVMLLALGLDSS
+MGGMEAVITGLADDFQVLKRHRKLFTFGVTFSTFLLALFCITKGGIYVLTLLDTFAAGTS
+ILFAVLMEAIGVSWFYGVDRFSNDIQQMMGFRPGLYWRLCWKFVSPAFLLFVVVVSIINF
+KPLTYDDYIFPPWANWVGWGIALSSMVLVPIYVIYKFLSTQGSLWERLAYGITPENEHHL
+VAQRDIRQFQLQHWLAI. 
+assistant
+COC(=O)C(C1CCCCN1)C2=CC=CC=C2.Cl
+
+GPT response:
+CC(C)(C)OC(=O)C1=CC=C(C=C1)N2CCC(CC2)C3=CC4=C(C=C3)NC(=O)NC4
+=====================================
