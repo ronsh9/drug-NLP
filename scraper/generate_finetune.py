@@ -88,14 +88,15 @@ def make_finetune_dataset(drug_info_filename, output_finetune_filename, good_dru
         i=disease_prompts[d]['info']
         
         similar_conditions = disease_prompts[d]['similar_conditions']
+        similar_disease = ''
         if similar_conditions != None and similar_conditions != '' and similar_conditions != []:
             similar_conditions = ', '.join(similar_conditions)
-            similar_disease = f'Some associated conditions are {similar_conditions}.'
+            similar_disease = f'Some associated conditions are {similar_conditions}. '
             
         # if i != '':
         #     print(d, disease_prompts[d])
         #     break
-        prompt = f'You are an expert in drug discovery, please generate a novel binder molecule for the following disease. Respond with a SMILES string of a hypothetical possible binder molecule. The disease is {d}{i}. {similar_disease} It has the following receptors:\n{allreceptors}'
+        prompt = f'You are an expert in drug discovery, please generate a novel binder molecule for the following disease. Respond with a SMILES string of a hypothetical possible binder molecule. The disease is {d}{i}. {similar_disease}It has the following receptors:\n{allreceptors}'
         smile = disease_prompts[d]['drug_smile']
         num_tokens = num_tokens_from_string(prompt+smile)
         while num_tokens>3950:
