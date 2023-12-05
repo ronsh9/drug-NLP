@@ -11,9 +11,10 @@ An exeprienced medicinal chemist could have a fair guess of binder structure for
 The input is a description of the disease and the associated target protein. The expected output is a SMILES string of the initial guess.
 We evaluate the success by measuring the similarity between the proposed drug and a list of known drugs that match the input description.
 
-# Run
+## Run
 
 `bash scripts/run_baseline.sh`
 
+## Run graph GA
 
-
+in mol_opt: `python run_drug_nlp.py ../final_finetuning/results/10_production_experiment.csv`
