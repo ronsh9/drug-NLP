@@ -1,5 +1,3 @@
-# run on our own database
-python mol_opt/run.py graph_ga --smi_file eval/data/example.tab --output_dir eval/results --task production --n_runs 1 --oracles qed > eval/results/out.txt
-
-# run on the ZINC database
-# python mol_opt/run.py graph_ga --output_dir eval/results --task production --n_runs 1 --oracles qed
+# run
+python mol_opt/run_drug_nlp.py final_finetuning/results/10_production_experiment.csv  graph_ga --seed 0 --output_dir eval/results
+# python mol_opt/run_drug_nlp.py final_finetuning/results/50_train_experiment.csv  graph_ga --seed 0 --output_dir eval/results
