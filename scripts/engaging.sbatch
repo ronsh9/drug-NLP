@@ -14,5 +14,5 @@
 arr=("10_train_experiment.csv" "50_train_experiment.csv" "200_train_experiment.csv" "1000_train_experiment.csv" "10_production_experiment.csv" "100_train_experiment.csv" "400_train_experiment.csv")
 source /home/ethany/drug-nlp/drug-NLP/nlp/bin/activate
 cd /home/ethany/drug-nlp/drug-NLP/
-echo ${arr[$SLURM_ARRAY_TASK_ID]}
-./scripts/run_ga.sh ${arr[$SLURM_ARRAY_TASK_ID]}
+echo "final_finetuning/results/${arr[$SLURM_ARRAY_TASK_ID]}"
+./scripts/run_ga.sh "final_finetuning/results/${arr[$SLURM_ARRAY_TASK_ID]}"
