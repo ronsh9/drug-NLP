@@ -1,0 +1,3 @@
+final_finetuning/results/
+graph_ga
+Using CSV:  final_finetuning/results/
